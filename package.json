@@ -1,0 +1,14 @@
+{
+  "name": "tornado-electron",
+  "version": "1.0.0",
+  "description": "Simple Electron Web-Client",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "author": "Sunny S",
+  "license": "ISC",
+  "devDependencies": {
+    "electron": "^15.1.0"
+  }
+}
